@@ -19,6 +19,8 @@ This **Quiz Application** is built using a **microservices architecture** with *
 - **Spring Cloud Gateway** (Reactive API Gateway) for request routing
 
 ## Architecture
+![{0E10C120-D9D1-4E60-9ABE-43753E591267}](https://github.com/user-attachments/assets/8a46041c-7d55-455e-a249-95658b85a8dc)
+
 
 ### Key Components:
 1. **Quiz Service**: 
